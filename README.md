@@ -1,5 +1,5 @@
 # Traffic Analyser
-Level 1 C# Assignment which reads from a text file and uses various sort and search algorithms
+BSc Computer Science Level 1 C# Assignment which reads from a text file and uses various sort and search algorithms
 
 # Design for Application
 ## Application Description
