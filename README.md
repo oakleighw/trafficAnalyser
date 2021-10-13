@@ -41,9 +41,9 @@ A count counts the steps and displays the result to the user after each algorith
 
 **Binary-search**: Binary search was great to use for finding the nearest value if the user’s key was not in the data set. Because of the divide-and-conquer nature of the algorithm, the search happens in halves, picking only the half with the numbers nearer to the key each time. That way, when the algorithm reaches the area it ‘thinks’ the value would be, the nearest value can be printed out to the user. The only downside to the use of this algorithm is that unlike linear-search, it must be altered for a descending-ordered array. Thereby the algorithm can check the ‘lower’ side if the middle value is greater than that of the key. Fortunately on evaluation, the steps taken for binary search are much lower than that of linear search as the data size increases, as worse case for the algorithm is O(log n)(Lambrou 2020). Worst case for space complexity is only O(1) for the algorithm so it makes it a good choice to use for searching.
 
-# Table for steps(count)
+# Table of steps(count)
 
-
+![table of search counts](sortTable.JPG)
 
 # References
 ## Learning
