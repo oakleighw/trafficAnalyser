@@ -1,0 +1,13 @@
+C:\Users\oakle\OneDrive\Documents\Computer Science\Algorithms\TrafficAnalysis\bin\Debug\TrafficAnalysis.exe.config
+C:\Users\oakle\OneDrive\Documents\Computer Science\Algorithms\TrafficAnalysis\bin\Debug\TrafficAnalysis.exe
+C:\Users\oakle\OneDrive\Documents\Computer Science\Algorithms\TrafficAnalysis\bin\Debug\TrafficAnalysis.pdb
+C:\Users\oakle\OneDrive\Documents\Computer Science\Algorithms\TrafficAnalysis\obj\Debug\TrafficAnalysis.csprojAssemblyReference.cache
+C:\Users\oakle\OneDrive\Documents\Computer Science\Algorithms\TrafficAnalysis\obj\Debug\TrafficAnalysis.exe
+C:\Users\oakle\OneDrive\Documents\Computer Science\Algorithms\TrafficAnalysis\obj\Debug\TrafficAnalysis.pdb
+C:\Users\oakle\OneDrive - University of Lincoln\Computer Science Level 1\Algorithms\TrafficAnalysis\bin\Debug\TrafficAnalysis.exe.config
+C:\Users\oakle\OneDrive - University of Lincoln\Computer Science Level 1\Algorithms\TrafficAnalysis\bin\Debug\TrafficAnalysis.exe
+C:\Users\oakle\OneDrive - University of Lincoln\Computer Science Level 1\Algorithms\TrafficAnalysis\bin\Debug\TrafficAnalysis.pdb
+C:\Users\oakle\OneDrive - University of Lincoln\Computer Science Level 1\Algorithms\TrafficAnalysis\obj\Debug\TrafficAnalysis.csprojAssemblyReference.cache
+C:\Users\oakle\OneDrive - University of Lincoln\Computer Science Level 1\Algorithms\TrafficAnalysis\obj\Debug\TrafficAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\oakle\OneDrive - University of Lincoln\Computer Science Level 1\Algorithms\TrafficAnalysis\obj\Debug\TrafficAnalysis.exe
+C:\Users\oakle\OneDrive - University of Lincoln\Computer Science Level 1\Algorithms\TrafficAnalysis\obj\Debug\TrafficAnalysis.pdb
